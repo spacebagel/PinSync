@@ -1,4 +1,4 @@
-# PinsSync
+# Pin Saver
 
 *It's almost working*
 
